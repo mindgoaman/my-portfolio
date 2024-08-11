@@ -1,0 +1,32 @@
+
+
+[  
+    {
+        "id": 1,
+        "role": "Senior Software Engineer SDE-II",
+        "company":  "CarDekho Group",
+        "starDate": "17 Mar 2024",
+        "endDate": "24 Apr 2024",
+        "location": "Gurgaon Haryana",
+        "companyImg": "../images/cardekho.jpg"
+
+    },
+    {
+        "id": 2,
+        "role": "React Native Developer",
+        "company":  "New Media Guru Pvt Ltd.",
+        "starDate": "03 Nov 2020",
+        "endDate": "O3 Mar 2022",
+        "location": "Gurgaon Haryana",
+        "companyImg": "../images/affle.jpg"
+    },
+    {
+        "id": 3,
+        "role": "Software Engineer",
+        "company":  "Affle India Ltd.",
+        "starDate": "08 Apr 2019",
+        "endDate": "26 Oct 2020",
+        "location": "Gurgaon Haryana",
+        "companyImg": "../images/nmg.jpg"
+    }
+]
